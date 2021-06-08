@@ -10,7 +10,9 @@
 
   "extraEnvVariables": [
     "ETHAN_STB_TYPE=IP",
-    "ETHAN_STB_MODEL=XiOne"
+    "ETHAN_STB_MODEL=XiOne",
+    "FORCE_SVP=TRUE",
+    "FORCE_SAP=TRUE"
   ],
 
   "gpu": {
